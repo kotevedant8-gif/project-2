@@ -1,0 +1,21 @@
+.aa{
+    height: 30px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    border: 1px solid black;    
+}
+.active{
+    font-size: italic;
+    color: green;
+    text-transform: uppercase;
+    text-decoration: wavy;
+}
+.bb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+}
